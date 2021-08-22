@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_acerca_de.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_agenda.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_sitio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema1.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema10.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema11.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema2.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema3.xml" value="0.33" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema4.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema5.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema8.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/activity_tema9.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/Users/df224/AndroidStudioProjects/Semana2DAUTEJAVA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

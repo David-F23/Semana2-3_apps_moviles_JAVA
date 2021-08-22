@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_margin="1dp"
+    android:background="@drawable/fondo2"
+    tools:context=".Tema_2">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/intro2"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="24dp"
+        />
+
+    <TextView
+        android:id="@+id/lbl1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl1"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <EditText
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:theme="@style/miEstilo"
+        android:textColor="@color/white"
+        android:hint="Primer valor"
+        android:textColorHint="@color/white"
+        android:inputType="number"
+        android:layout_marginRight="47dp"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:id="@+id/lbl2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl2"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:layout_marginRight="40dp"
+        />
+
+    <EditText
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/miEstilo"
+        android:textColor="@color/white"
+        android:hint="Segundo valor"
+        android:textColorHint="@color/white"
+        android:ems="10"
+        android:inputType="number"
+        android:layout_marginRight="47dp"/>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="90dp">
+
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sumar"
+            android:textColor="@color/white"/>
+
+        <RadioButton
+            android:id="@+id/radio2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Restar"
+            android:textColor="@color/white"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#3E0880"
+        android:text="Operar"
+        android:onClick="operar"
+        android:layout_marginTop="50dp"
+        />
+
+    <TextView
+        android:id="@+id/lblres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginTop="55dp"
+        android:text="Resultado:" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

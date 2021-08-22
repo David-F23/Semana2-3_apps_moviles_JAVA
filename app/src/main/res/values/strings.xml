@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Semana2-DAUTE-JAVA</string>
+    <string name="tema1">Tema #1</string>
+    <string name="tema2">Tema #2</string>
+    <string name="tema3">Tema #3</string>
+    <string name="tema4">Tema #4</string>
+    <string name="tema5">Tema #5</string>
+    <string name="tema6">Tema #6</string>
+    <string name="tema7">Tema #7</string>
+    <string name="tema8">Tema #8</string>
+    <string name="tema9">Tema #9</string>
+    <string name="tema10">Tema #10</string>
+    <string name="tema11">Tema #11</string>
+    <string name="intro1">Tema #1 Capturar el clic de un boton</string>
+    <string name="intro2">Tema #2 Controles RadioGroup y RadioButton</string>
+    <string name="intro3">Tema #3 Control CheckBox</string>
+    <string name="intro4">Tema #4 Control Spinner</string>
+    <string name="intro5">Tema #5 Control ListView</string>
+    <string name="intro6">Tema #6 Control ImageButton</string>
+    <string name="intro7">Tema #7 Clase Toast</string>
+    <string name="intro8">Tema #8 Control EditText</string>
+    <string name="intro9">Tema #9 Lanzar un segundo "Activity"</string>
+    <string name="intro10">Tema #10 Pasar parámetros"</string>
+    <string name="intro11">Tema #11 Clase SharedPreferences</string>
+    <string name="lbl1">Ingrese el primer valor.</string>
+    <string name="lbl2">Ingrese el Segundo valor.</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt1">Semana 2 Desarrollo de aplicaciones móviles</string>
+</resources>
